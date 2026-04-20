@@ -1,0 +1,512 @@
+[
+    {
+        "name": "Agincourt/Malvern",
+        "longitude": -79.1923528,
+        "lattitude": 43.79966599999999
+    },
+    {
+        "name": "Ajax/Pickering",
+        "longitude": -79.0203732,
+        "lattitude": 43.8508553
+    },
+    {
+        "name": "Aurora",
+        "longitude": -79.3851843,
+        "lattitude": 43.653226
+    },
+    {
+        "name": "Banbury-Don Mills/York Mills",
+        "longitude": -79.3624511,
+        "lattitude": 43.7529678
+    },
+    {
+        "name": "Bathurst Manor",
+        "longitude": -79.4568858,
+        "lattitude": 43.7628233
+    },
+    {
+        "name": "Bay Street Corridor",
+        "longitude": -79.3842244,
+        "lattitude": 43.6569603
+    },
+    {
+        "name": "Bayview Village",
+        "longitude": -79.3828127,
+        "lattitude": 43.7782567
+    },
+    {
+        "name": "Bedford Park-Nortown",
+        "longitude": -79.4240508,
+        "lattitude": 43.7322121
+    },
+    {
+        "name": "Beechborough-Greenbrook",
+        "longitude": -79.4793538,
+        "lattitude": 43.6936641
+    },
+    {
+        "name": "Bendale",
+        "longitude": -79.248935,
+        "lattitude": 43.765434
+    },
+    {
+        "name": "Birchcliffe-Cliffside",
+        "longitude": -79.2623362,
+        "lattitude": 43.6930232
+    },
+    {
+        "name": "Black Creek",
+        "longitude": -79.5201996,
+        "lattitude": 43.7687634
+    },
+    {
+        "name": "Bradford/West Gwillimbury/New Tecumseth",
+        "longitude": -79.5629529,
+        "lattitude": 44.114899
+    },
+    {
+        "name": "Brampton (East)",
+        "longitude": -79.6881143,
+        "lattitude": 43.7731694
+    },
+    {
+        "name": "Brampton (West)",
+        "longitude": -79.7624177,
+        "lattitude": 43.7315479
+    },
+    {
+        "name": "Briar Hill-Belgravia",
+        "longitude": -79.45184259999999,
+        "lattitude": 43.7007662
+    },
+    {
+        "name": "Broadview North",
+        "longitude": -79.35527200000001,
+        "lattitude": 43.6885889
+    },
+    {
+        "name": "Bronte",
+        "longitude": -79.712975,
+        "lattitude": 43.397376
+    },
+    {
+        "name": "Brookhaven-Amesbury",
+        "longitude": -79.4810371,
+        "lattitude": 43.7010631
+    },
+    {
+        "name": "Cabbagetown-South St. James Town",
+        "longitude": -79.3661802,
+        "lattitude": 43.66792239999999
+    },
+    {
+        "name": "Caledonia-Fairbank",
+        "longitude": -79.4551278,
+        "lattitude": 43.6899047
+    },
+    {
+        "name": "Casa Loma",
+        "longitude": -79.41108539999999,
+        "lattitude": 43.6845696
+    },
+    {
+        "name": "Church-Yonge Corridor",
+        "longitude": -79.3878436,
+        "lattitude": 43.6728714
+    },
+    {
+        "name": "Churchill Meadows/Erin Mills",
+        "longitude": -79.7466999,
+        "lattitude": 43.552819
+    },
+    {
+        "name": "Clairlea-Birchmount",
+        "longitude": -79.2827966,
+        "lattitude": 43.71619
+    },
+    {
+        "name": "Clanton Park",
+        "longitude": -79.4472105,
+        "lattitude": 43.7346488
+    },
+    {
+        "name": "Clarkson/Lorne Park",
+        "longitude": -79.617851,
+        "lattitude": 43.540199
+    },
+    {
+        "name": "Cooksville",
+        "longitude": -79.6109049,
+        "lattitude": 43.5705788
+    },
+    {
+        "name": "Crescent Town",
+        "longitude": -79.2937357,
+        "lattitude": 43.6959813
+    },
+    {
+        "name": "Danforth Village-East York",
+        "longitude": -79.2965535,
+        "lattitude": 43.6891365
+    },
+    {
+        "name": "Don Valley Village/Pleasant View",
+        "longitude": -79.3530917,
+        "lattitude": 43.787323
+    },
+    {
+        "name": "Dorset Park",
+        "longitude": -79.2810228,
+        "lattitude": 43.7658133
+    },
+    {
+        "name": "Downsview",
+        "longitude": -79.4852932,
+        "lattitude": 43.7330496
+    },
+    {
+        "name": "Dufferin Grove/Little Portugal",
+        "longitude": -79.4300351,
+        "lattitude": 43.6459598
+    },
+    {
+        "name": "East End-Danforth",
+        "longitude": -79.309632,
+        "lattitude": 43.6781823
+    },
+    {
+        "name": "East Gwillimbury/Newmarket",
+        "longitude": -79.4446918,
+        "lattitude": 44.0625307
+    },
+    {
+        "name": "Edenbridge-Humber Valley",
+        "longitude": -79.5213393,
+        "lattitude": 43.6701371
+    },
+    {
+        "name": "Eglinton East",
+        "longitude": -79.2460974,
+        "lattitude": 43.737227
+    },
+    {
+        "name": "Englemount-Lawrence",
+        "longitude": -79.4356719,
+        "lattitude": 43.7107135
+    },
+    {
+        "name": "Etobicoke West Mall",
+        "longitude": -79.5672092,
+        "lattitude": 43.6445417
+    },
+    {
+        "name": "Flemingdon Park",
+        "longitude": -79.33132959999999,
+        "lattitude": 43.7183965
+    },
+    {
+        "name": "Forest Hill North",
+        "longitude": -79.4264178,
+        "lattitude": 43.7052246
+    },
+    {
+        "name": "Forest Hill South",
+        "longitude": -79.41504499999999,
+        "lattitude": 43.6943273
+    },
+    {
+        "name": "Henry Farm",
+        "longitude": -79.3520831,
+        "lattitude": 43.7717943
+    },
+    {
+        "name": "High Park North/Junction",
+        "longitude": -79.4652484,
+        "lattitude": 43.6576333
+    },
+    {
+        "name": "High Park-Swansea",
+        "longitude": -79.4578892,
+        "lattitude": 43.6489774
+    },
+    {
+        "name": "Humewood-Cedarvale",
+        "longitude": -79.4280869,
+        "lattitude": 43.6945375
+    },
+    {
+        "name": "Ionview",
+        "longitude": -79.27396329999999,
+        "lattitude": 43.7308749
+    },
+    {
+        "name": "Islington/City Centre North",
+        "longitude": -79.5434841,
+        "lattitude": 43.6309156
+    },
+    {
+        "name": "Kennedy Park",
+        "longitude": -79.25400379999999,
+        "lattitude": 43.7248657
+    },
+    {
+        "name": "Kingsview Village-The Westway",
+        "longitude": -79.55201749999999,
+        "lattitude": 43.700547
+    },
+    {
+        "name": "L'Amoreaux/Steeles/Milliken",
+        "longitude": -79.2652241,
+        "lattitude": 43.8273667
+    },
+    {
+        "name": "Lambton Baby Point",
+        "longitude": -79.4925734,
+        "lattitude": 43.6576262
+    },
+    {
+        "name": "Lawrence Park North",
+        "longitude": -79.4035452,
+        "lattitude": 43.7303017
+    },
+    {
+        "name": "Lawrence Park South",
+        "longitude": -79.4122993,
+        "lattitude": 43.7159804
+    },
+    {
+        "name": "Leaside-Bennington",
+        "longitude": -79.36808909999999,
+        "lattitude": 43.7048361
+    },
+    {
+        "name": "Long Branch",
+        "longitude": -79.5382607,
+        "lattitude": 43.5933961
+    },
+    {
+        "name": "Malton",
+        "longitude": -79.6419698,
+        "lattitude": 43.7210303
+    },
+    {
+        "name": "Markham",
+        "longitude": -79.4098687,
+        "lattitude": 43.6585256
+    },
+    {
+        "name": "Meadowvale",
+        "longitude": -79.5159033,
+        "lattitude": 43.6444249
+    },
+    {
+        "name": "Milton/Halton Hills",
+        "longitude": -79.8859762,
+        "lattitude": 43.6287983
+    },
+    {
+        "name": "Mimico",
+        "longitude": -79.5111199,
+        "lattitude": 43.61832769999999
+    },
+    {
+        "name": "Mississauga Centre/Streetsville",
+        "longitude": -79.7203565,
+        "lattitude": 43.5876785
+    },
+    {
+        "name": "Moore Park",
+        "longitude": -79.383686,
+        "lattitude": 43.6913089
+    },
+    {
+        "name": "Morningside",
+        "longitude": -79.20498060000001,
+        "lattitude": 43.7826337
+    },
+    {
+        "name": "Moss Park/Regent Park",
+        "longitude": -79.35815389999999,
+        "lattitude": 43.6612023
+    },
+    {
+        "name": "Mount Olive-Silverstone-Jamestown/Thistletown",
+        "longitude": -79.5652707,
+        "lattitude": 43.73717449999999
+    },
+    {
+        "name": "Mount Pleasant East",
+        "longitude": -79.3847504,
+        "lattitude": 43.70507689999999
+    },
+    {
+        "name": "Mount Pleasant West",
+        "longitude": -79.3944677,
+        "lattitude": 43.7120903
+    },
+    {
+        "name": "New Toronto",
+        "longitude": -79.5053123,
+        "lattitude": 43.600793
+    },
+    {
+        "name": "North St. James Town",
+        "longitude": -79.3757259,
+        "lattitude": 43.6696426
+    },
+    {
+        "name": "O'Connor-Parkview",
+        "longitude": -79.3101645,
+        "lattitude": 43.7060089
+    },
+    {
+        "name": "Oakville (excl. Bronte)",
+        "longitude": -79.712975,
+        "lattitude": 43.397376
+    },
+    {
+        "name": "Oakwood-Vaughan",
+        "longitude": -79.44080749999999,
+        "lattitude": 43.6926279
+    },
+    {
+        "name": "Old East York",
+        "longitude": -79.3359973,
+        "lattitude": 43.696283
+    },
+    {
+        "name": "Orangeville/Mono",
+        "longitude": -80.0943113,
+        "lattitude": 43.9199788
+    },
+    {
+        "name": "Parkwoods-Donalda",
+        "longitude": -79.32770699999999,
+        "lattitude": 43.7607001
+    },
+    {
+        "name": "Playter Estates-Danforth",
+        "longitude": -79.35490109999999,
+        "lattitude": 43.6796989
+    },
+    {
+        "name": "Port Credit",
+        "longitude": -79.5817184,
+        "lattitude": 43.5552038
+    },
+    {
+        "name": "Rexdale-Kipling",
+        "longitude": -79.5645455,
+        "lattitude": 43.7245138
+    },
+    {
+        "name": "Richmond Hill/Vaughan/King",
+        "longitude": -79.4402808,
+        "lattitude": 43.8828401
+    },
+    {
+        "name": "Rockcliffe-Smythe",
+        "longitude": -79.4955877,
+        "lattitude": 43.6761899
+    },
+    {
+        "name": "Scarborough Village",
+        "longitude": -79.2188305,
+        "lattitude": 43.7432088
+    },
+    {
+        "name": "South Parkdale/King West",
+        "longitude": -79.4321981,
+        "lattitude": 43.6379561
+    },
+    {
+        "name": "St. Andrew-Windfields",
+        "longitude": -79.379003,
+        "lattitude": 43.76016480000001
+    },
+    {
+        "name": "Stonegate-Queensway",
+        "longitude": -79.50582419999999,
+        "lattitude": 43.6339386
+    },
+    {
+        "name": "Tam O'Shanter-Sullivan",
+        "longitude": -79.2980098,
+        "lattitude": 43.7810186
+    },
+    {
+        "name": "The Beaches",
+        "longitude": -79.2980808,
+        "lattitude": 43.670516
+    },
+    {
+        "name": "Thorncliffe Park",
+        "longitude": -79.3436414,
+        "lattitude": 43.7074985
+    },
+    {
+        "name": "Toronto",
+        "longitude": -79.3803231,
+        "lattitude": 43.6486795
+    },
+    {
+        "name": "University/Annex",
+        "longitude": -79.407585,
+        "lattitude": 43.6698329
+    },
+    {
+        "name": "Victoria Village",
+        "longitude": -79.3134823,
+        "lattitude": 43.7261636
+    },
+    {
+        "name": "West Humber-Clairville",
+        "longitude": -79.5849657,
+        "lattitude": 43.7222698
+    },
+    {
+        "name": "Westminster-Branson",
+        "longitude": -79.4510518,
+        "lattitude": 43.7856327
+    },
+    {
+        "name": "Weston",
+        "longitude": -79.51621899999999,
+        "lattitude": 43.7001669
+    },
+    {
+        "name": "Wexford-Maryvale",
+        "longitude": -79.2947465,
+        "lattitude": 43.7453614
+    },
+    {
+        "name": "Willowdale East/Newtonbrook East",
+        "longitude": -79.4101651,
+        "lattitude": 43.7891977
+    },
+    {
+        "name": "Willowdale West/Newtonbrook West",
+        "longitude": -79.432249,
+        "lattitude": 43.7862071
+    },
+    {
+        "name": "Willowridge-Martingrove-Richview",
+        "longitude": -79.5527072,
+        "lattitude": 43.68138889999999
+    },
+    {
+        "name": "Woburn",
+        "longitude": -79.2317279,
+        "lattitude": 43.7764702
+    },
+    {
+        "name": "Yonge-Eglinton",
+        "longitude": -79.398442,
+        "lattitude": 43.70643099999999
+    },
+    {
+        "name": "Yorkdale-Glen Park",
+        "longitude": -79.4532114,
+        "lattitude": 43.7069987
+    }
+]

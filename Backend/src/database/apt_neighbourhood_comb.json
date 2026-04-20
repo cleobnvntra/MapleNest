@@ -1,0 +1,371 @@
+[
+  { "Neighbourhood": "Agincourt/Malvern", "Apartment Type": ["3Bedroom"] },
+  {
+    "Neighbourhood": "Ajax/Pickering",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  { "Neighbourhood": "Aurora", "Apartment Type": ["2Bedroom", "1Bedroom"] },
+  {
+    "Neighbourhood": "Banbury-Don Mills/York Mills",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Bathurst Manor",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Bay Street Corridor",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Bayview Village",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Bedford Park-Nortown",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Beechborough-Greenbrook",
+    "Apartment Type": ["1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Bendale",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Birchcliffe-Cliffside",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Black Creek",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Bradford/West Gwillimbury/New Tecumseth",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Brampton (East)",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Brampton (West)",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Briar Hill-Belgravia",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Broadview North",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  { "Neighbourhood": "Bronte", "Apartment Type": ["2Bedroom", "1Bedroom"] },
+  {
+    "Neighbourhood": "Brookhaven-Amesbury",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Cabbagetown-South St. James Town",
+    "Apartment Type": ["Bachelor", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Caledonia-Fairbank",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  { "Neighbourhood": "Casa Loma", "Apartment Type": ["Bachelor", "2Bedroom"] },
+  {
+    "Neighbourhood": "Church-Yonge Corridor",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Churchill Meadows/Erin Mills",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Clairlea-Birchmount",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  { "Neighbourhood": "Clanton Park", "Apartment Type": ["1Bedroom"] },
+  {
+    "Neighbourhood": "Clarkson/Lorne Park",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Cooksville",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Crescent Town",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Danforth Village-East York",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Don Valley Village/Pleasant View",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Dorset Park",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Downsview",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Dufferin Grove/Little Portugal",
+    "Apartment Type": ["1Bedroom"]
+  },
+  { "Neighbourhood": "East End-Danforth", "Apartment Type": ["1Bedroom"] },
+  {
+    "Neighbourhood": "East Gwillimbury/Newmarket",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Edenbridge-Humber Valley",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Eglinton East",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Englemount-Lawrence",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Etobicoke West Mall",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Flemingdon Park",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Forest Hill North",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  { "Neighbourhood": "Forest Hill South", "Apartment Type": ["1Bedroom"] },
+  {
+    "Neighbourhood": "Henry Farm",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "High Park North/Junction",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  { "Neighbourhood": "High Park-Swansea", "Apartment Type": ["1Bedroom"] },
+  {
+    "Neighbourhood": "Humewood-Cedarvale",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Ionview",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Islington/City Centre North",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Kennedy Park",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Kingsview Village-The Westway",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "L'Amoreaux/Steeles/Milliken",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  { "Neighbourhood": "Lambton Baby Point", "Apartment Type": ["Bachelor"] },
+  {
+    "Neighbourhood": "Lawrence Park North",
+    "Apartment Type": ["Bachelor", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Lawrence Park South",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Leaside-Bennington",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  { "Neighbourhood": "Long Branch", "Apartment Type": ["1Bedroom"] },
+  { "Neighbourhood": "Malton", "Apartment Type": ["1Bedroom"] },
+  {
+    "Neighbourhood": "Markham",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Meadowvale",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Milton/Halton Hills",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Mimico",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Mississauga Centre/Streetsville",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  { "Neighbourhood": "Moore Park", "Apartment Type": ["2Bedroom", "1Bedroom"] },
+  {
+    "Neighbourhood": "Morningside",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Moss Park/Regent Park",
+    "Apartment Type": ["Bachelor", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Mount Olive-Silverstone-Jamestown/Thistletown",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Mount Pleasant East",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Mount Pleasant West",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "New Toronto",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  { "Neighbourhood": "North St. James Town", "Apartment Type": ["Bachelor"] },
+  {
+    "Neighbourhood": "O'Connor-Parkview",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Oakville (excl. Bronte)",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Oakwood-Vaughan",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Old East York",
+    "Apartment Type": ["Bachelor", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Orangeville/Mono",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Parkwoods-Donalda",
+    "Apartment Type": ["Bachelor", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Playter Estates-Danforth",
+    "Apartment Type": ["1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Port Credit",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Rexdale-Kipling",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Richmond Hill/Vaughan/King",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Rockcliffe-Smythe",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Scarborough Village",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "South Parkdale/King West",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "St. Andrew-Windfields",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Stonegate-Queensway",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Tam O'Shanter-Sullivan",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "The Beaches",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Thorncliffe Park",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Toronto",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "University/Annex",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Victoria Village",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "West Humber-Clairville",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Westminster-Branson",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Weston",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Wexford-Maryvale",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Willowdale East/Newtonbrook East",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Willowdale West/Newtonbrook West",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Willowridge-Martingrove-Richview",
+    "Apartment Type": ["2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Woburn",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom", "3Bedroom"]
+  },
+  {
+    "Neighbourhood": "Yonge-Eglinton",
+    "Apartment Type": ["Bachelor", "2Bedroom", "1Bedroom"]
+  },
+  {
+    "Neighbourhood": "Yorkdale-Glen Park",
+    "Apartment Type": ["2Bedroom", "1Bedroom"]
+  }
+]
