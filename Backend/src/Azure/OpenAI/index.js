@@ -1,8 +1,15 @@
-const OpenAI = require("openai");
+const dotenv = require("dotenv");
+const { OpenAIClient, AzureKeyCredential } = require("@azure/openai");
 
-const client = new OpenAI({
-  apiKey: process.env.OPENAI_API_KEY,
-});
+dotenv.config("../../../env");
+
+const AZURE_OPENAI_KEY = process.env.AZURE_OPENAI_KEY;
+const AZURE_OPENAI_ENDPOINT = process.env.AZURE_OPENAI_ENDPOINT;
+
+const client = new OpenAIClient(
+  AZURE_OPENAI_ENDPOINT,
+  new AzureKeyCredential(AZURE_OPENAI_KEY),
+);
 
 async function runPrompt(user_prompt, system_prompt, max_tokens, temp = 0.5) {
   const messages = [
@@ -17,17 +24,18 @@ async function runPrompt(user_prompt, system_prompt, max_tokens, temp = 0.5) {
   ];
 
   try {
-    const result = await client.chat.completions.create({
-      model: process.env.OPENAI_MODEL || "gpt-4o-mini",
-      messages,
-      max_tokens,
-      temperature: temp,
+    const deploymentName = process.env.OPENAI_DEPLOYMENT_NAME;
+
+    const result = await client.getChatCompletions(deploymentName, messages, {
+      maxTokens: max_tokens, // Each model has a different max tokens limit
+      temperature: temp, // 0.1 0.2 .... 1
     });
+
+    console.log(result);
 
     return result.choices[0].message.content;
   } catch (error) {
-    console.error("Error during OpenAI API call:", error);
-    throw error;
+    console.error("Error during API call or JSON parsing:", error);
   }
 }
 
